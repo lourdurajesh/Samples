@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\cube.fx.bulkupload.api.props" />
+</Project>

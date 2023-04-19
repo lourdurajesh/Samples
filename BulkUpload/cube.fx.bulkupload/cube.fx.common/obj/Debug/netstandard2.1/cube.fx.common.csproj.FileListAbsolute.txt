@@ -1,0 +1,5 @@
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\cube.fx.common\obj\Debug\netstandard2.1\cube.fx.common.csproj.AssemblyReference.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\cube.fx.common\obj\Debug\netstandard2.1\cube.fx.common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\cube.fx.common\obj\Debug\netstandard2.1\cube.fx.common.AssemblyInfoInputs.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\cube.fx.common\obj\Debug\netstandard2.1\cube.fx.common.AssemblyInfo.cs
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\cube.fx.common\obj\Debug\netstandard2.1\cube.fx.common.csproj.CoreCompileInputs.cache

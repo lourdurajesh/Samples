@@ -1,0 +1,12 @@
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Debug\netstandard2.0\Lombok.NET.deps.json
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Debug\netstandard2.0\Lombok.NET.dll
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Debug\netstandard2.0\Lombok.NET.pdb
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Debug\netstandard2.0\Lombok.NET.xml
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.csproj.AssemblyReference.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.AssemblyInfoInputs.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.AssemblyInfo.cs
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.csproj.CoreCompileInputs.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.dll
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.xml
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\obj\Debug\netstandard2.0\Lombok.NET.pdb

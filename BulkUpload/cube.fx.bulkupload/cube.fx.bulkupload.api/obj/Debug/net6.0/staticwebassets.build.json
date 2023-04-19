@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OODG0+q027rsivPYhh1dIs+sowQ2O2J4jRajXUSDsoU=",
+  "Source": "cube.fx.bulkupload.api",
+  "BasePath": "_content/cube.fx.bulkupload.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

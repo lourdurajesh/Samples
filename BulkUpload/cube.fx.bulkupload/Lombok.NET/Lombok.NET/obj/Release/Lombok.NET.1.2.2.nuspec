@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lombok.NET</id>
+    <version>1.2.2</version>
+    <title>.NET adaptation for Java's Lombok using Source Generators.</title>
+    <authors>Collin Alpert</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/CollinAlpert/Lombok.NET</projectUrl>
+    <description>This library is to .NET what Lombok is to Java. It generates constructors and other fun stuff using Source Generators for those classes you specify special attributes for.</description>
+    <copyright>2022 © Collin Alpert</copyright>
+    <tags>lombok dotnet source-generators roslyn</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.CodeAnalysis.CSharp.Workspaces" version="4.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Release\netstandard2.0\Lombok.NET.dll" target="lib\netstandard2.0\Lombok.NET.dll" />
+    <file src="F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Release\netstandard2.0\Lombok.NET.xml" target="lib\netstandard2.0\Lombok.NET.xml" />
+    <file src="F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET\bin\Release\netstandard2.0\Lombok.NET.dll" target="analyzers\dotnet\cs\Lombok.NET.dll" />
+  </files>
+</package>

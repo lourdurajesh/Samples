@@ -1,0 +1,5 @@
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET.Test\obj\Debug\net6.0\Lombok.NET.Test.csproj.AssemblyReference.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET.Test\obj\Debug\net6.0\Lombok.NET.Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET.Test\obj\Debug\net6.0\Lombok.NET.Test.AssemblyInfoInputs.cache
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET.Test\obj\Debug\net6.0\Lombok.NET.Test.AssemblyInfo.cs
+F:\Projects\Source\MHP\BULKUPLOAD\cube.fx.bulkupload\Lombok.NET\Lombok.NET.Test\obj\Debug\net6.0\Lombok.NET.Test.csproj.CoreCompileInputs.cache
